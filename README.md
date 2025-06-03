@@ -18,6 +18,9 @@ The dataset used consists of 372,450 labeled images of size 28x28 pixels, each r
 * Format: CSV file
 * Each row contains 784 pixel values + label
 * Labels: 0 (A) to 25 (Z)
+  
+## Download DataSet from the following link:
+https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 ## How to Run
 
@@ -40,3 +43,5 @@ To predict a new letter image:
 1. Upload an image file to Colab (`my_letter.png`)
 2. Convert to grayscale, resize to 28x28, normalize
 3. Run the model to predict the character
+
+##Thank YouFor Reading!!
